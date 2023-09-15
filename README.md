@@ -1,6 +1,6 @@
 [![Archived](https://img.shields.io/badge/Archived-Yes-red.svg)](https://github.com/yourusername/genetic-algorithm/archive/master.zip)
 
-# Archived - Genetic Algorithm
+# Genetic Algorithm
 
 This project, now archived, was dedicated to the implementation of a Genetic Algorithm. Its objective was to generate five-letter words through a large population generated after random crossovers. The final goal was to identify a word that met the criteria of having five similar letters.
 
